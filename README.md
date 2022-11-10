@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aztro-dev
 - 👀 I’m interested in Backend development
-- 🌱 I’m currently learning Golang with gin
+- 🌱 I’m currently learning Rust with Actix-Web and Yew
 - 💞️ I’m looking to collaborate on Raylib Projects (C++)
 - 📫 How to reach me davidperezcastellanos@gmail.com
