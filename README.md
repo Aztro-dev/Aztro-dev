@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Aztro-dev
+- 👋 Hi, I’m Aztro
 - 👀 I’m interested in Backend development
-- 🌱 I’m currently learning Rust with Actix-Web and Yew
-- 💞️ I’m looking to collaborate on Raylib Projects (C++)
-- 📫 How to reach me davidperezcastellanos@gmail.com
+- 🌱 I’m currently learning Rust with Raylib and Actix-Web
+- 💞️ I’m looking to collaborate on Raylib Projects (Rust or C++)
+- 📫 Reach me at davidperezcastellanos@gmail.com
