@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aztro-dev" alt="aztro-dev" /></a> </p>
 
-- 🔭 I’m currently working on a CAD program for my robotics team called **VAIC**
+- 🔭 I’m currently working on a CAD program for robotics called **VAIC**, and a package manager called **PROS-Pack**
 
 - 🌱 I’m currently learning **Rust and Assembly**
 
