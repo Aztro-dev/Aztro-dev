@@ -3,10 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aztro-dev" alt="aztro-dev" /></a> </p>
 
-- 🔭 I’m currently working on a CAD program for robotics called **VAIC**
-
-- 🌱 I’m currently learning **Rust and Assembly**
-
 - 📫 How to reach me **davidperezcastellanos@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
